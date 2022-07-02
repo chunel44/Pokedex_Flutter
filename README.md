@@ -1,4 +1,4 @@
-# pokedex_prueba__tecnica
+# Pokedex Prueba Técnica
 
 A new Flutter project.
 
