@@ -1,0 +1,10 @@
+export 'detail_screen.dart';
+export 'home_screen.dart';
+export 'welcome_screen.dart';
+export 'navigation_drawer_screen.dart';
+export 'my_team_list_screen.dart';
+export 'team_selector_screen.dart';
+export 'name_team_screen.dart';
+export 'navigation_drawer_screen.dart';
+export 'info_teams_screen.dart';
+export 'teams_screen.dart';
